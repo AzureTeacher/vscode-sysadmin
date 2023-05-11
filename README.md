@@ -1,2 +1,2 @@
-# vscode-sysadmin
+# VSCode Sysadmin
 VS Code for SysAdmins
